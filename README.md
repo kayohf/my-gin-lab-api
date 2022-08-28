@@ -1,0 +1,1 @@
+Just a simple REST Api using GoLang and Gin framework.
